@@ -1,5 +1,42 @@
 ## DAT110 - Project 2: Publish-subscribe messaging middleware
 
+### Tests
+Test 1
+
+![](assets/Test1.png)
+
+Test 2
+
+![](assets/Test2.png)
+
+Test 3
+
+![](assets/Test3.png)
+
+Test 4
+
+![](assets/Test4.png)
+
+Test 5
+
+![](assets/Test5.png)
+
+Test 6
+
+![](assets/Test6.png)
+
+Test 7
+
+![](assets/Test7.png)
+
+IOT Test
+
+![](assets/IOT-Test8.png)
+
+Chapp Running
+
+![](assets/Chapp-kjorer.png)
+
 ### Organisation
 
 This project work is to be undertaken in **groups of 2-4 students** - preferably the same groups as for project 1.
